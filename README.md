@@ -1,1 +1,2 @@
-# engl-final-proj
+# final_project
+HIST30-TR Final Project Website
