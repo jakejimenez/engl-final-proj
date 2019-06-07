@@ -1,2 +1,2 @@
-# final_project
-HIST30-TR Final Project Website
+# ENGL106 Final Project
+### by Jacob Jimenez
